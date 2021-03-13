@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Business">
+      <UniqueIdentifier>{b061c65f-89f5-4726-8c14-6216fc66f33b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Domeniu">
+      <UniqueIdentifier>{d7a331f3-1a75-41d0-9dd8-3e2043fbfd15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Prezentare">
+      <UniqueIdentifier>{ff9d1005-9328-43c6-a8b0-33c30f7187da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Testare">
+      <UniqueIdentifier>{f35dd4f2-daab-4276-a271-569676e75b7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Validare">
+      <UniqueIdentifier>{209b1f46-c7ab-4221-aa49-221889b6430a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Infrastructura">
+      <UniqueIdentifier>{c772bd9c-5686-4956-9c7d-90c5ce98cbb4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Servicii.c">
+      <Filter>Source Files\Business</Filter>
+    </ClCompile>
+    <ClCompile Include="Entitati.c">
+      <Filter>Source Files\Domeniu</Filter>
+    </ClCompile>
+    <ClCompile Include="Validatori.c">
+      <Filter>Source Files\Validare</Filter>
+    </ClCompile>
+    <ClCompile Include="Repository.c">
+      <Filter>Source Files\Infrastructura</Filter>
+    </ClCompile>
+    <ClCompile Include="Teste.c">
+      <Filter>Source Files\Testare</Filter>
+    </ClCompile>
+    <ClCompile Include="Consola.c">
+      <Filter>Source Files\Prezentare</Filter>
+    </ClCompile>
+    <ClCompile Include="AppCoordinator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Entitati.h">
+      <Filter>Source Files\Domeniu</Filter>
+    </ClInclude>
+    <ClInclude Include="Validatori.h">
+      <Filter>Source Files\Validare</Filter>
+    </ClInclude>
+    <ClInclude Include="Repository.h">
+      <Filter>Source Files\Infrastructura</Filter>
+    </ClInclude>
+    <ClInclude Include="Teste.h">
+      <Filter>Source Files\Testare</Filter>
+    </ClInclude>
+    <ClInclude Include="Consola.h">
+      <Filter>Source Files\Prezentare</Filter>
+    </ClInclude>
+    <ClInclude Include="Servicii.h">
+      <Filter>Source Files\Business</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

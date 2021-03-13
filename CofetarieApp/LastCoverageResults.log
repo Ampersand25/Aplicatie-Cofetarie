@@ -1,0 +1,21 @@
+[2021-03-14 01:12:07] [info] Start Program:
+Path:"C:\\Users\\Admin\\Documents\\VS Projects\\Lab2-4\\6. Cofetarie\\Debug\\6. Cofetarie.exe"
+Arguments:
+Working directory: "C:\\Users\\Admin\\Documents\\VS Projects\\Lab2-4\\6. Cofetarie\\"
+Modules: Selected: C:\Users\Admin\Documents\VS Projects\Lab2-4\6. Cofetarie\Debug\6. Cofetarie.exe Excluded: 
+Sources: Selected: C:\Users\Admin\Documents\VS Projects\Lab2-4\6. Cofetarie Excluded: Consola.c 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Admin\AppData\Local\Temp\irbrxc0i.hgz 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-03-14 01:12:07] [info] Module: C:\Users\Admin\Documents\VS Projects\Lab2-4\6. Cofetarie\Debug\6. Cofetarie.exe is selected because it matches selected pattern: C:\Users\Admin\Documents\VS Projects\Lab2-4\6. Cofetarie\Debug\6. Cofetarie.exe
+[2021-03-14 01:12:07] [info] ----------------------------------------------------
+[2021-03-14 01:12:07] [info] Coverage binary generated in file: C:\Users\Admin\AppData\Local\Temp\irbrxc0i.hgz
+[2021-03-14 01:12:07] [info] ----------------------------------------------------
