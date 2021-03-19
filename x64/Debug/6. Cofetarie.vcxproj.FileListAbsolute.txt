@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\VS Projects\Lab2-4\6. Cofetarie\x64\Debug\6. Cofetarie.exe
+C:\Users\Admin\Documents\VS Projects\Lab2-4\6. Cofetarie\x64\Debug\6. Cofetarie.pdb
